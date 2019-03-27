@@ -1,4 +1,4 @@
-### [pwadev-tips]()
+## [pwadev-tips]()
 
 progressive web apps dev tips, toDos and Nots ✅ by maye and [awesome web devs]() powered by [pwafire.org]()
 
