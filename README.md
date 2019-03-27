@@ -14,7 +14,7 @@ A **F**irst, **I**ntegrated, **R**eliable and **E**ngaging Web Experience
    
 ### Can I contribute? Yes! Yes! Please do!
 
-[Fork or clone this repo](https://github.com/mayeedwin/pwadev-tips/forkd send your PRs
+[Fork or clone this repo](https://github.com/mayeedwin/pwadev-tips/fork) and send your PRs
 
 ### Licence
 
