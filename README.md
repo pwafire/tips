@@ -11,6 +11,10 @@ A **F**irst, **I**ntegrated, **R**eliable and **E**ngaging Web Experience
 
    - [setup tips here](https://github.com/mayeedwin/pwadev-tips/tree/master/setup)
    - [build tips here](https://github.com/mayeedwin/pwadev-tips/tree/master/build)
+   
+### Can I contribute? Yes! Yes! Please do!
+
+[Fork or clone this repo](https://github.com/mayeedwin/pwadev-tips/forkd send your PRs
 
 ### Licence
 
