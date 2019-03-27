@@ -1,4 +1,4 @@
-### [Get your dev environment ready]()
+### <img src="https://github.com/webmaxru/progressive-web-apps-logo/blob/master/pwalogo.svg" alt="loading logo" height="25"/> Get your dev environment ready
 
    - Install latest version of [VS Code](https://code.visualstudio.com/download) or your favourite editor.
    
