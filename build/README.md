@@ -1,3 +1,4 @@
+## <img src="https://github.com/webmaxru/progressive-web-apps-logo/blob/master/pwalogo.svg" alt="loading logo" height="15"/>
 ### [ Building Your Progressive Web App ](https://pwafire.org/developer/pwa/started/)
 
 You only need two files; 
