@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/webmaxru/progressive-web-apps-logo/blob/master/pwalogo.svg" alt="PWAdev" height="100"/>
+</p>
+
 ## [pwadev-tips]()
 
 progressive web apps dev tips, toDos ✅ by [maye](https://maye.pwafire.org) and [awesome web devs]() powered by [pwafire.org]()
