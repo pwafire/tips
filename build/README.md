@@ -17,4 +17,4 @@ You only need two files;
    
    > **tip 3; add background sync**
    
-   Service workers solve the page loading part by letting you serve content from a cache. But what about when the page needs to send something to the server 😲 ? Take [this codelab here](https://pwafire.org/developer/docs/background-sync/)
+   Service workers solve the page loading part by letting you serve content from a cache. But what about when the page needs to send something to the server 😲 ? [Learn how to do so here](https://pwafire.org/developer/docs/background-sync/)
