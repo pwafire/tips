@@ -1,7 +1,7 @@
 
 ## [<img src="https://github.com/webmaxru/progressive-web-apps-logo/blob/master/pwalogo.svg" alt="loading logo" height="25"/> dev-tips]()
 
-progressive web apps dev tips, toDos ✅ by [maye](https://maye.pwafire.org) and [awesome web devs]() powered by [pwafire.org]()
+progressive web apps dev tips, toDos ✅ by [maye](https://maye.pwafire.org) and [awesome web devs]() powered by [pwafire.org](http://pwafire.org/)
 
 ### What's a progressive web app?
 
