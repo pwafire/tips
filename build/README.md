@@ -8,7 +8,7 @@ You only need two files;
     
    > **tip 1; for service worker**
    
-   For **static (pwa) sites** you could just add a [simple service worker like this](https://pwafire.org/developer/pwa/started/#sw-config) and for a more dynamic pwa then workbox library fits that perfectly, [check out an example here](https://pwafire.org/developer/pwa/started/#workbox-service-worker)
+   For **static (pwa) sites** you could just add a [simple service worker like this](https://pwafire.org/developer/pwa/started/#sw-config) and for a more **dynamic pwa** then [workbox library](https://developers.google.com/web/tools/workbox/) fits that perfectly, [check out an example here](https://pwafire.org/developer/pwa/started/#workbox-service-worker)
    
    > **tip 2; for web manifest**
    
