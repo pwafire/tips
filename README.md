@@ -1,6 +1,6 @@
 ## [pwadev-tips]()
 
-progressive web apps dev tips, toDos and Nots ✅ by maye and [awesome web devs]() powered by [pwafire.org]()
+progressive web apps dev tips, toDos ✅ by maye and [awesome web devs]() powered by [pwafire.org]()
 
 #### What's a progressive web app?
 
