@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/webmaxru/progressive-web-apps-logo/blob/master/pwalogo.svg" alt="loading logo" height="50"/>
+  <img src="https://github.com/webmaxru/progressive-web-apps-logo/blob/master/pwalogo.svg" alt="loading logo" height="25"/>
 </p>
 
 ## [pwadev-tips]()
