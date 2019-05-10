@@ -1,5 +1,5 @@
 
-## [<img src="https://github.com/webmaxru/progressive-web-apps-logo/blob/master/pwalogo.svg?raw=true" alt="loading logo" height="25"/> dev-tips]()
+## [<img src="https://github.com/webmaxru/progressive-web-apps-logo/blob/master/pwalogo.svg" alt="loading logo" height="25"/> dev-tips]()
 
 Progressive web apps dev tips, toDos ✅ by [maye](https://maye.pwafire.org) and [awesome web devs]() powered by [pwafire.org](http://pwafire.org/)
 
