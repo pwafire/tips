@@ -18,4 +18,4 @@ A **F**irst, **I**ntegrated, **R**eliable and **E**ngaging Web Experience
 
 ### Licence
 
-MIT License
+Apache License 2.0
