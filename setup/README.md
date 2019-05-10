@@ -3,6 +3,8 @@
 ## Get your dev environment ready
 
    - Install latest version of [VS Code](https://code.visualstudio.com/download) or your favourite editor.
+
+   - Install [PWA VS Code Extension](http://bit.ly/vscode-pwa)
    
    - Install latest version of [Chrome Browser](https://www.google.com/chrome/?brand=CHBD&gclid=CjwKCAjwvuzkBRAhEiwA9E3FUn19UEGyxoRobRxWCkc-lilNZy_k7uqwUvvTumQUdtozroVPenYhYhoCVRwQAvD_BwE&gclsrc=aw.ds)
    
